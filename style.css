@@ -144,6 +144,9 @@ footer p{
         vertical-align: middle;
         margin-bottom: 30px;
     }
+    .header img{
+        width: 80%;
+    }
 
     .banner p{
         font-size: 26px;
